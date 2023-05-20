@@ -19,7 +19,7 @@
   <ul>
     <li>Pandas</li>
     <li>Matplotlib</li>
-    <li>tkinter</li>
+    <li>Tkinter</li>
     <li>Numpy</li>
   </ul>
 
