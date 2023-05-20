@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Student Information Analyzer</title>
-</head>
+
+
+
 <body>
+    <h1>Student Information Analyzer</h1>
   <h1>About</h1>
   <p>This project is a Python GUI application built using Tkinter that facilitates the analysis of student information. It provides a user-friendly interface for visualizing, searching, and managing student data stored in the data.csv file.</p>
 
